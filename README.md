@@ -1,6 +1,6 @@
 # Exercícios de Typescript
 
-## Exercício 1 - Declarar variáveis e tipos
+## [Exercício 1 - Declarar variáveis e tipos]()
 Declaram-se variáveis de forma semelhante ao JavaScript, entretanto a diferença está na declaração dos tipos. Em typescript, usa-se ```let x: number = 5```, ou seja, declara-se a variável e acrescenta-se dois pontos e o tipo da variável para então realizar inicializar ou atribuir valor a ela.
 
 - Exemplos
@@ -19,9 +19,8 @@ let trueOrFalse: boolean = true;
 console.log(typeof trueOrFalse)
 
 ```
-Você pode conferir os códigos dessa aula [aqui]()
 
-## Exercício 2 - Criar tipos personalizados
+## [Exercício 2 - Criar tipos personalizados]()
 Declarar tipos personalizados também pode ser conhecido como *alias*. Um tipo personalizado é um agrupamento de tipagens dentro de um objeto que podem ser chamados por apelido (alias) sem a necessidade de serem tipados todas as vezes que forem utilizados. Contudo, tem que conter a mesma quantidade de tipos e as mesmas propriedades.
 
 - Exemplos
@@ -48,5 +47,4 @@ console.log(typeof cadastro.nome);
 console.log(typeof cadastro.isPcd);
 ```
 
-Você pode conferir os códigos dessa aula [aqui]()
 
