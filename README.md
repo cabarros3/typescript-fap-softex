@@ -20,7 +20,7 @@ console.log(typeof trueOrFalse)
 
 ```
 
-## [Exercício 2 - Criar tipos personalizados]()
+## [Exercício 2 - Criar tipos personalizados](https://github.com/cabarros3/typescript-fap-softex/blob/master/alias_types.ts)
 Declarar tipos personalizados também pode ser conhecido como *alias*. Um tipo personalizado é um agrupamento de tipagens dentro de um objeto que podem ser chamados por apelido (alias) sem a necessidade de serem tipados todas as vezes que forem utilizados. Contudo, tem que conter a mesma quantidade de tipos e as mesmas propriedades.
 
 - Exemplos
