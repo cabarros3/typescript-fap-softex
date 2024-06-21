@@ -1,6 +1,6 @@
 # Exercícios de Typescript
 
-## [Exercício 1 - Declarar variáveis e tipos]()
+## [Exercício 1 - Declarar variáveis e tipos](https://github.com/cabarros3/typescript-fap-softex/blob/master/var_and_types.ts)
 Declaram-se variáveis de forma semelhante ao JavaScript, entretanto a diferença está na declaração dos tipos. Em typescript, usa-se ```let x: number = 5```, ou seja, declara-se a variável e acrescenta-se dois pontos e o tipo da variável para então realizar inicializar ou atribuir valor a ela.
 
 - Exemplos
