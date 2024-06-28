@@ -36,17 +36,28 @@ console.log(!true);
 
 // Questão 10
 
-
+console.log(5 <= 6 && 6 >= 5);
 
 // Questão 11
 
+let num: number = 30;
+
+console.log(num < 30 || num > 25);
 
 // Questão 12
 
-
+console.log(num == 0 || num > 0 );
 
 // Questão 13
 
+let palavra: string = "";
 
+console.log(`O tamanho da string é ${palavra.length}, essa string está vazia? ${palavra == ""}`);
 
 // Questão 14
+
+let myVar: boolean = true;
+
+console.log(typeof myVar);
+console.log(myVar == true);
+
