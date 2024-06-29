@@ -15,21 +15,25 @@ let x: number = 30;
 let a: number = 22;
 
 // Questão 5
+
 console.log(x + a); // primeira forma
 let soma: number = x + a; // segunda forma
 console.log(soma);
 
 // Questão 6
+
 console.log(x - a); // primeira forma
 let sub: number = x - a; // segunda forma
 console.log(sub);
 
 // Questão 7
+
 console.log(x * a); // primera forma
 let mult: number = x * a; // segunda forma
 console.log(mult);
 
 // Questão 8 
+
 console.log(x / a);
 let div: number  = x / a;
 console.log(div);

@@ -4,13 +4,13 @@ type Dados = {
     nome: string,
     idade: number,
     endereco: string,// criada na questão 3
-}
+};
 
 let pessoa: Dados = {
     nome: "Camilla",
     idade: 29,
     endereco: "Rua engenho caraú, 87",// criada na questão 3
-}
+};
 
 // Questão 2
 
@@ -72,13 +72,13 @@ type Propriedades = {
     marca: string,
     modelo: string | undefined,
     ano: number;
-}
+};
 
 let carro: Propriedades = {
     marca: "BMW",
     modelo: "Um modelo de uma BMW qualquer",
     ano: 2140,
-}
+};
 
 console.log(`Este carro é da marca ${carro.marca}, do modelo ${carro.modelo} e do ano ${carro.ano}`);
 

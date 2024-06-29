@@ -22,3 +22,5 @@ console.log(frase.toUpperCase());
 let myVar: string = "valor qualquer";
 myVar = "outro valor qualquer";
 console.log(myVar);
+
+
