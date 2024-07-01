@@ -82,7 +82,11 @@ console.log(alunos);
 
 // Questão 13
 
-let produtos: string[]= ["Carne", "Verdura", "Produto de limpeza", "Doces", "Pães", "Bebidas", "Produtos de Higiêne Pessoal", "óleos", "Temperos", "cereais"];
+let produtos: string[]= ["Carne", "Verdura", "Detergente", "Goiabada", "Pão doce", "Leite", "Sabonete", "óleo", "Pimenta do reino", "Feijão"];
 
-console.log(produtos);  // como mostrar no terminal apenas os pares?
+for (let i = 0; i < produtos.length; i++){
+    if(i % 2 == 0){
+        console.log(produtos[i]);
+    }
+}
 
